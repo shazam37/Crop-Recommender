@@ -23,12 +23,11 @@ The data was scraped through different crop information present for Indian Soil
 
 ### [Experiment Results:]()
 * **Data Analysis**
-    * All columns contain outliers except for N.
+    * All columns contain outliers except for N. Removed them using IQR. 
  * **Performance Evaluation**
-    * Splitting the dataset by 80 % for training set and 20 % validation set.
+    * 80 % training set and 20 % validation set.
  * **Training and Validation**
-    * GausianNB gets a higher accuracy score than other classification models.
-    * GaussianNB ( 99 % accuracy score )
+    * GausianNB had the highest accuracy score (99%) than other classification models.
  * **Performance Results**
     * Training Score: 99.5%
     * Validation Score: 99.3%

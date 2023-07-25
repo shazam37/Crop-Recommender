@@ -5,7 +5,7 @@ Crop recommendation plays a crucial role in precision agriculture, where the goa
 
 
 <p align="center">
-<img src="https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=1024x1024&w=is&k=20&c=yCC31xDwz8uezGmsEWpCcA5QMW95C8f-COaKY4_eJig=" />
+<img src="[https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=1024x1024&w=is&k=20&c=yCC31xDwz8uezGmsEWpCcA5QMW95C8f-COaKY4_eJig=](https://static.businessworld.in/article/article_extra_large_image/1595413246_xTzoBr_Agritech_FINAL.jpg)" />
 </p>
 This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
 

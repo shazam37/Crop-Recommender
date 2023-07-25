@@ -1,14 +1,11 @@
-# Crop-Recommender
-Users can specify the values of 7 input features (Nitrogen, Phosphorous, Potassium, Temperature, Humidity, pH, Rainfall). The model on the backend does the prediction and classification. Based on the classification result, suggestions are given.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FCrop-Recommendation&count_bg=%23161716&title_bg=%23095202&icon=leaflet.svg&icon_color=%23E7E7E7&title=Crop+Recommender&edge_flat=true)](https://hits.seeyoufarm.com)
-
 # Crop Recommendation Using Machine Learning
 
-Crop recommendation is one of the most important aspects of precision agriculture. Crop recommendations are based on a number of factors. Precision agriculture seeks to define these criteria on a site-by-site basis in order to address crop selection issues. While the "site-specific" methodology has improved performance, there is still a need to monitor the systems' outcomes.Precision agriculture systems aren't all created equal. However, in agriculture, it is critical that the recommendations made are correct and precise, as errors can result in significant material and capital loss.
+Crop recommendation plays a crucial role in precision agriculture, where the goal is to tailor crop selection based on specific site conditions. This process involves considering various factors unique to each location to make accurate recommendations. While the "site-specific" approach has led to better results, it remains important to monitor and assess the outcomes of precision agriculture systems. Not all precision agriculture systems are the same, and the accuracy of the recommendations is of utmost importance in agriculture, as mistakes can lead to substantial losses in resources and investment.
+
 
 
 <p align="center">
-<img src="https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg" />
+<img src="[https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fagriculture&psig=AOvVaw3WJq0JjkSIx56DX3fKt4YY&ust=1690353923088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC015mhqYADFQAAAAAdAAAAABAE)" />
 </p>
 This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
 
